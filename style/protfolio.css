@@ -162,3 +162,91 @@ margin-left: 20px;
     justify-content: space-around;
 }
 
+/* Resume-colom-style */
+.Resume-contener{
+    display: flex;
+    gap: 30px;
+    margin: 30px 38px 1px 230px;
+
+}
+.colom-title{
+    margin: 0px 230px 0px 0px;
+
+}
+.summary{
+    text-align: center;
+    font-weight: 700px;
+    font-size: 35px;
+    color: rgb(24, 24, 24);
+    margin-bottom: 40px;
+}
+.Resume-title{
+font-size: 30px;
+font-weight: 700px;
+color: rgb(71, 71, 71);
+}
+.Resume-colom-title{
+    font-size: 25px;
+font-weight: 700px;
+color: rgb(71, 71, 71);
+}
+.Resume-sub-title{
+    font-size: 20px;
+font-weight: 600px;
+color:rgb(117, 117, 117) ;
+}
+.Resume-drcsubtion{
+    font-size: 16px;
+font-weight: 400px;
+color: rgb(117, 117, 117);
+}
+.Resume-button{
+    font-size: 20px;
+    font-weight: 700px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(253, 110, 10);
+    padding: 18px 17px 18px 51px;
+    border-radius: 5px;
+    margin-left:45%;
+    margin-top: 40px;
+    bottom:1px solid rgb(255, 255, 255);
+    border: none;
+    
+
+}
+/* footer style */
+.footer{
+    display: flex;
+    background-color: rgb(255, 248, 243);
+    padding: 130px 230px;
+    margin-top: 113px;
+    gap: 117px;
+}
+.footer-colom{
+    font-size: 35px;
+    font-weight: 700px;
+}
+.footer-drecsubtion{
+    font-size: 16px;
+    font-weight: 400px;
+    color: rgb(71, 71, 71);
+
+}
+.footer input[type="text"],footer input[type="email"],footer textarea{
+    display:block;
+    background-color: white;
+    border-radius: 5px;
+    width: 100%;
+    padding: 10px 20PX ;
+    margin-bottom: 24px;
+    border: none;
+
+}
+.footer button{
+    color: rgb(255, 255, 255);
+    background-color: rgb(253, 110, 10);
+    padding: 18px 39px;
+    border: none;
+    border-radius:5px ;
+}
+
